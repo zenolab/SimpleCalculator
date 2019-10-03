@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorCalculator</string>
+    <string name="you_result">Your result %s</string>
+</resources>
